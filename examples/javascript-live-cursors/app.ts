@@ -12,7 +12,7 @@ declare global {
   }
 }
 
-let PUBLIC_KEY = "pk_YOUR_PUBLIC_KEY";
+let PUBLIC_KEY = "pk_prod_Q3klokQRX6IoZ-Zf1EjILJW8DTXGajaMQZA9mF6ia9Qwiw5WWidgjRiR0itzSwKD";
 let roomId = "javascript-live-cursors";
 
 applyExampleRoomIdAndApiKey();
